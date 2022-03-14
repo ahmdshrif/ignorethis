@@ -1,9 +1,9 @@
 # ignorethis
 ignorethis
-my token is ***REMOVED***
+my token is 
 
 some data
 
 some data
 
-***REMOVED*** 
+ 
